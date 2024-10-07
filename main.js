@@ -38,7 +38,7 @@ let last_name = "Claws"
 
 last_name = "Claus"
 
-console.log("I still believe in " + first_name + " " + last_name)
+console.log("I still believe in", first_name, last_name)
 
 // TASK 4
 
@@ -48,10 +48,10 @@ console.log(typeof last_name)
 
 // TASK 5
 
-const pi = 3.14
+const PI = 3.14
 
 let radius = 4
 
-let circle_area = pi * radius * radius
+let circle_area = PI * radius * radius
 
 console.log(circle_area)
