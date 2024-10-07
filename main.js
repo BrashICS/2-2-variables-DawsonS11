@@ -27,18 +27,26 @@ let area = length * width
 
 console.log(area)
 
+// TASK 2
+
 console.log("Area: " + area)
+
+// TASK 3
 
 let first_name = "Santa"
 let last_name = "Claws"
 
 last_name = "Claus"
 
-console.log("i still believe in " + first_name + " " +  last_name)
+console.log("I still believe in " + first_name + " " + last_name)
+
+// TASK 4
 
 console.log(typeof length)
 console.log(typeof area)
 console.log(typeof last_name)
+
+// TASK 5
 
 const pi = 3.14
 
